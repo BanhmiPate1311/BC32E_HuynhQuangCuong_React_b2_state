@@ -23,14 +23,11 @@ export default class Body extends Component {
                   <img src="./glassesImage/v7.png" alt="FENDI F8750" />
                 </div>
                 <div id="glassesInfo" className="vglasses__info">
-                  <h5>FENDI F8750</h5>
+                  <h5>MEOW BADBOY</h5>
                   <p>
-                    <span>$80</span>
+                    <span>$FREE</span>
                   </p>
-                  <p>
-                    Light pink square lenses define these sunglasses, ending
-                    with amother of pearl effect tip.
-                  </p>
+                  <p>Khó tính, khó chịu, khó ăn, khó ở, khó sờ, khó vuốt</p>
                 </div>
               </div>
             </div>
